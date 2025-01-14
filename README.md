@@ -116,6 +116,4 @@ We welcome contributions to this project! If you'd like to improve the app or su
 
 6. **Acknowledgements**
 Developed by: Desire B
-Designed and developed with ❤️ at Nganatech
-
-.
+Designed and developed with ❤️ at Nganatech.
