@@ -7,7 +7,7 @@ const App = () => {
   const [error, setError] = useState("");
   const [dateTime, setDateTime] = useState(new Date());
   const [names] = useState([
-    "Alice",
+    "Pazzo",
     "Bob",
     "Charlie",
     "Diana",
