@@ -7,16 +7,16 @@ const App = () => {
   const [error, setError] = useState("");
   const [dateTime, setDateTime] = useState(new Date());
   const [names] = useState([
-    "Pazzo",
-    "Bob",
-    "Charlie",
-    "Diana",
-    "Eve",
-    "Frank",
-    "Grace",
-    "Hank",
-    "Ivy",
-    "Jack",
+    "Manzi",
+    "Schola",
+    "Deogratias",
+    "Faisal",
+    "Claudette",
+    "Pacifique",
+    "Solange",
+    "Clement",
+    "Benjamin",
+    "Deogratias_2",
   ]);
   const [numbers, setNumbers] = useState([]);
   const [lastClicked, setLastClicked] = useState("");
