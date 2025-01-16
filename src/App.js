@@ -16,7 +16,7 @@ const App = () => {
     "Solange",
     "Clement",
     "Benjamin",
-    "Deogratias_2",
+    "Niyibizi",
   ]);
   const [numbers, setNumbers] = useState([]);
   const [lastClicked, setLastClicked] = useState("");
